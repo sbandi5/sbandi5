@@ -1,27 +1,36 @@
-<h1 align="center">Hi, I'm Sai Mani Kiran Bandi 👋</h1>
-
-<h3 align="center">Backend Software Engineer · Cloud-Native & Distributed Systems</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sai+Mani+Kiran+Bandi+%F0%9F%91%8B;Backend+Software+Engineer;Cloud-Native+%26+Distributed+Systems+Dev" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  Building scalable microservices, secure REST APIs, and production-ready backends with Java, Kotlin & Spring Boot.
+  Building scalable microservices, secure REST APIs, and production-ready backends with <b>Java</b>, <b>Kotlin</b> &amp; <b>Spring Boot</b>.
 </p>
 
 <p align="center">
   <a href="https://sbandi5.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/sai-mani-kiran-bandi-66b18a21a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sbandi5@emich.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sbandi5&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently a **Backend Developer Intern @ Connex AI**, building microservices for credential verification and compliance workflows in **Kotlin + Spring Boot**.
-- 🎓 **MS in Computer Science** at Eastern Michigan University (GPA 3.91, graduating **April 2026**).
-- ⚙️ I specialize in **backend development, distributed systems, and cloud-native architecture** — REST APIs, microservices, authentication/authorization, and performance optimization.
-- 🧠 Strong foundation in **data structures, algorithms, OOP, and software engineering best practices**.
-- 🌱 Always digging into scalable system design, caching strategies, and writing reliable, well-tested code.
-- 💬 Ask me about **Spring Boot, microservices, JWT/RBAC security, or deploying with Docker on AWS**.
+```yaml
+name:        Sai Mani Kiran Bandi
+role:        Backend Developer Intern @ Connex AI
+education:   MS Computer Science, Eastern Michigan University (GPA 3.91, '26)
+focus:       Microservices · REST APIs · Distributed Systems · Cloud-Native
+currently:   Building credential-verification & compliance services in Kotlin + Spring Boot
+open_to:     Software Engineer / Backend Developer roles — 2026
+```
+
+- 🔭 Designing and shipping **15+ REST endpoints** for secure third-party integrations and internal systems.
+- 🔐 Strong on **JWT auth, role-based access control, and AES-256** for sensitive data.
+- ⚡ I care about **performance** — query optimization, caching, and async processing.
+- 🧪 I write **tested** code (JUnit 5 + Mockito) and ship through **Agile / CI-CD** workflows.
+- 💬 Ask me about **Spring Boot, microservices, API security, or Docker on AWS**.
 
 ---
 
@@ -36,10 +45,11 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
-**Backend & Frameworks**
+**Backend &amp; Frameworks**
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -53,7 +63,7 @@
   <img src="https://img.shields.io/badge/CouchDB-E42528?style=flat-square&logo=apachecouchdb&logoColor=white"/>
 </p>
 
-**Cloud, DevOps & Tools**
+**Cloud, DevOps &amp; Tools**
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
@@ -69,12 +79,12 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| **[SHU E-Commerce Platform](https://github.com/sbandi5/Ecommerce-couchdb)** | Full-stack e-commerce app with user auth, product catalog, cart, and secure **Stripe** payments. RBAC + secure file uploads, deployed on **AWS EC2** with Docker. | Spring Boot · React · Stripe · AWS · Docker |
-| **[Network Scanner](https://github.com/sbandi5/Cosc592-480-NetworkScanner)** | Spring Boot backend inspired by network monitoring & packet analysis — scan execution, reporting, and real-time monitoring APIs with multithreaded processing. | Java · Spring Boot · Multithreading |
-| **[Search Engine](https://github.com/sbandi5/Search-Engine)** | Search application with indexing and query handling. | JavaScript |
-| **[Portfolio](https://sbandi5.github.io/portfolio/)** | My personal portfolio site showcasing projects and experience. | HTML · CSS · JS |
+| **[🛒 E-Commerce Platform](https://github.com/sbandi5/Ecommerce-couchdb)** | Full-stack store: auth, product catalog, cart, and end-to-end **Stripe** checkout. RBAC + secure uploads, containerized and deployed on **AWS EC2**. | Spring Boot · React · Stripe · AWS · Docker |
+| **[🔎 Network Scanner](https://github.com/sbandi5/Cosc592-480-NetworkScanner)** | Spring Boot service for network monitoring &amp; packet analysis — scan execution, reporting, and real-time monitoring APIs with **multithreaded** processing. | Java · Spring Boot · Multithreading |
+| **[🔍 Search Engine](https://github.com/sbandi5/Search-Engine)** | Document indexing and query-handling engine with ranked results. | JavaScript |
+| **[🌐 Portfolio](https://sbandi5.github.io/portfolio/)** | Personal site showcasing projects, skills, and experience. | HTML · CSS · JS |
 
 ---
 
@@ -82,15 +92,19 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sbandi5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbandi5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbandi5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com/?user=sbandi5&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sbandi5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
+</p>
+
 ---
 
 <p align="center">
-  <i>Open to Software Engineer / Backend Developer roles starting 2026. Let's connect!</i>
+  <i>💡 Open to Software Engineer / Backend Developer roles starting 2026 — let's build something scalable together.</i>
 </p>
